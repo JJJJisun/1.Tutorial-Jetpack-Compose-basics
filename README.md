@@ -1,6 +1,9 @@
 # compose_first
 SwiftUI, Flutter 같은 새로운 선언형 UI에 대한 사용경험
 
++ 실제 앱 화면
+
+![compose1](https://user-images.githubusercontent.com/42526264/160867777-379e1ed6-75e4-4801-9869-dabf2759c6d0.png)
 
 
 ## 공부했던 내용 정리 (notion)
