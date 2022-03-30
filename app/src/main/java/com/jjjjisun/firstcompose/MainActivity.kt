@@ -64,7 +64,7 @@ fun MessageCard(msg: Message) {
         // variable
         var isExpanded by remember { mutableStateOf(false) }
 
-        // surfaceColor은 한 색상에서 다른 색상으로 바뀜
+        // surfaceColor 은 한 색상에서 다른 색상으로 바뀜
         val surfaceColor: Color by animateColorAsState(
             if (isExpanded) {
                 MaterialTheme.colors.primary
